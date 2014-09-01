@@ -1,0 +1,8 @@
+<div class="table-gtd columns-{{ level }}">
+    {{#each states}}
+        <div class="column">
+            <div class="column-header">{{ this }}</div>
+            <div class="column-body" data-ui="stickers-list" data-state="{{ @key }}"></div>
+        </div>
+    {{/each}}
+</div>
