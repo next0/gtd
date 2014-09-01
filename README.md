@@ -21,4 +21,4 @@ Gulp tasks
 
 `gulp build` - build code
 
-`gulp start` - watch files and rebuild code when a file changes
+`gulp` - watch files and rebuild code when a file changes
