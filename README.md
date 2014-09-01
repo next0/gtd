@@ -3,6 +3,8 @@ GTD Task Manager
 
 Simple and flexible task manager
 
+Demo: http://next0.github.io/gtd/
+
 
 Installation
 ------------
